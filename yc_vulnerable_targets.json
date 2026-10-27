@@ -1,0 +1,48 @@
+[
+  {
+    "domain": "sketchdeck.com",
+    "title": "YC launches a new fundraising format: The one-slide summary",
+    "url": "https://www.sketchdeck.com/blog/yc-one-slide-summary",
+    "author": "edmack",
+    "is_bleeding": true,
+    "spf_lookups": 14,
+    "spf_mechanisms_count": 14,
+    "dmarc_policy": "none",
+    "reasons": [
+      "RFC_7208_PERM_ERROR (14 lookups > 10 limit)",
+      "DMARC_VULNERABLE (Policy: none)"
+    ],
+    "spf_raw": "v=spf1 include:spf.mandrillapp.com include:426574.spf10.hubspotemail.net include:mail.zendesk.com include:_spf.google.com include:_spf.firebasemail.com include:mailgun.org include:servers.mcsv.net ~all",
+    "dmarc_raw": "v=DMARC1; p=none;"
+  },
+  {
+    "domain": "contactokapital.com",
+    "title": "YC Launch",
+    "url": "https://www.contactokapital.com",
+    "author": "kapital2021",
+    "is_bleeding": true,
+    "spf_lookups": 0,
+    "spf_mechanisms_count": 0,
+    "dmarc_policy": "MISSING",
+    "reasons": [
+      "NO_SPF_RECORD"
+    ],
+    "spf_raw": null,
+    "dmarc_raw": null
+  },
+  {
+    "domain": "itsmello.co",
+    "title": "Launch: Mello (YC S21) \u2013 Integrate wellbeing into your workflow with mello",
+    "url": "https://www.itsmello.co/",
+    "author": "cgchen",
+    "is_bleeding": true,
+    "spf_lookups": 0,
+    "spf_mechanisms_count": 0,
+    "dmarc_policy": "MISSING",
+    "reasons": [
+      "NO_SPF_RECORD"
+    ],
+    "spf_raw": null,
+    "dmarc_raw": null
+  }
+]
