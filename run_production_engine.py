@@ -185,18 +185,25 @@ Infrastructure &amp; MailOps | <a href="https://tensix.in" style="color: #2563eb
 
     all_recipients = [to_email] + cc_emails
 
-    # Pre-Flight Mailbox Verification Gate
-    if not verify_mailbox_rcpt(to_email):
-        print(f"[-] [BOUNCE SHIELD] {to_email} does not accept mail (550 NoSuchUser). Dropping dispatch.")
+    # Pre-Flight Multi-Stage Mailbox Verification Gate (All Recipients)
+    verified_recipients = []
+    for rcpt in all_recipients:
+        if verify_mailbox_rcpt(rcpt):
+            verified_recipients.append(rcpt)
+        else:
+            print(f"[-] [BOUNCE SHIELD] {rcpt} failed pre-flight check (550 / Soft Bounce / Null MX). Filtered out.")
+
+    if not verified_recipients:
+        print(f"[-] [BOUNCE SHIELD] No valid recipient addresses remaining for {domain}. Aborting dispatch.")
         return False
 
     try:
         server = smtplib.SMTP("smtp-relay.brevo.com", 587)
         server.starttls()
         server.login(smtp_login, smtp_key)
-        server.sendmail(sender_email, all_recipients, msg.as_string())
+        server.sendmail(sender_email, verified_recipients, msg.as_string())
         server.quit()
-        print(f"[+] [DISPATCH SUCCESS] {domain} -> {all_recipients}")
+        print(f"[+] [DISPATCH SUCCESS] {domain} -> {verified_recipients}")
         record_dispatch(domain)
         return True
     except Exception as e:
