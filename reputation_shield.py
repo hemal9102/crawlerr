@@ -78,6 +78,10 @@ def verify_live_website(domain: str, timeout: int = 6) -> Tuple[bool, int, Dict]
                 "weight": weight
             }
 
+    except urllib.error.HTTPError as e:
+        if e.code in [403, 429]:
+            return True, 75, {"status": e.code, "reason": f"WAF_PROTECTED_ENTERPRISE_LIVE (HTTP {e.code})"}
+        return False, 0, {"reason": f"HTTP_ERROR_{e.code}: {str(e)[:50]}"}
     except Exception as e:
         return False, 0, {"reason": f"CONNECTION_FAILED: {str(e)[:60]}"}
 
