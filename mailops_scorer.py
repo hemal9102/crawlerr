@@ -114,19 +114,21 @@ def score_and_package_domain(domain: str, biz_type: str = "B2B SaaS"):
         
     vendors = analyze_vendor_sprawl(spf_raw)
     
-    # 2. Probe DMARC (VAR_03, VAR_22)
+    # 2. Probe DMARC (VAR_03, VAR_22, VAR_34)
     dmarc_domain = f"_dmarc.{domain}"
     dmarc_records = get_dns_records(dmarc_domain, "TXT")
     dmarc_raw = next((r for r in dmarc_records if "v=DMARC1" in r), None)
     
     dmarc_policy = "MISSING"
     has_rua = False
+    has_ruf = False
     subdomain_policy = None
     if dmarc_raw:
         match = re.search(r'p=([a-zA-Z]+)', dmarc_raw)
         if match:
             dmarc_policy = match.group(1).lower()
         has_rua = "rua=" in dmarc_raw
+        has_ruf = "ruf=" in dmarc_raw
         sp_match = re.search(r'sp=([a-zA-Z]+)', dmarc_raw)
         if sp_match:
             subdomain_policy = sp_match.group(1).lower()
@@ -208,6 +210,16 @@ def score_and_package_domain(domain: str, biz_type: str = "B2B SaaS"):
     # VAR_28: Apex Drag Trap (20 pts)
     if has_apex_drag:
         score += 20
+
+    # VAR_32: MTA-STS Policy Check (20 pts)
+    mta_sts_txt = get_dns_records(f"_mta-sts.{domain}", "TXT")
+    has_mta_sts = any("v=STSv1" in r for r in mta_sts_txt)
+    if not has_mta_sts:
+        score += 20
+
+    # VAR_34: RUF Forensic Reporting Gap (15 pts)
+    if not has_ruf and dmarc_policy in ["quarantine", "reject"]:
+        score += 15
 
     bleed_score = min(score, 100)
 
