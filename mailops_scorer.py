@@ -152,7 +152,21 @@ def score_and_package_domain(domain: str, biz_type: str = "B2B SaaS"):
     # VAR_27: Spam Drift Vulnerability (High volume SaaS without RUA telemetry)
     spam_drift_risk = not has_rua and ("saas" in biz_type.lower() or "b2b" in biz_type.lower())
 
-    # 4. Compute Weighted Bleed Score across 27 Variables
+    # VAR_28: Apex Drag Trap & Route Split Check
+    # Probes if marketing subdomains are flattened while apex domain stays bloated
+    has_apex_drag = False
+    subdomain_tested = f"mail.{domain}"
+    try:
+        sub_txt = get_dns_records(subdomain_tested, "TXT")
+        sub_spf = [r for r in sub_txt if "v=spf1" in r]
+        if sub_spf and spf_lookups > 10:
+            sub_lookups, _ = evaluate_spf_recursive(subdomain_tested)
+            if sub_lookups <= 4:
+                has_apex_drag = True
+    except Exception:
+        pass
+
+    # 4. Compute Weighted Bleed Score across 28 Variables
     score = 0
     
     # VAR_01: SPF Lookups > 10 (40 pts)
@@ -190,6 +204,10 @@ def score_and_package_domain(domain: str, biz_type: str = "B2B SaaS"):
     # VAR_27: Spam Drift Risk without RUA (15 pts)
     if spam_drift_risk:
         score += 15
+
+    # VAR_28: Apex Drag Trap (20 pts)
+    if has_apex_drag:
+        score += 20
 
     bleed_score = min(score, 100)
 
