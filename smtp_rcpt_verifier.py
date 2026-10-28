@@ -95,8 +95,15 @@ def simulate_smtp_handshake(mx_host: str, recipient: str, timeout: int = 5) -> D
         code = rcpt_resp[:3]
         clean_msg = rcpt_resp.strip()
 
+        # Check for local IP blocking by recipient MX (e.g. Spamhaus PBL on residential IP)
+        # In this case, the probe IP is blocked, NOT the recipient mailbox! Brevo relay will succeed.
+        if "blocked using spamhaus" in rcpt_resp.lower() or "550 5.7.1 service unavailable, client host" in rcpt_resp.lower():
+            return {"status": "BLOCKED_PORT", "code": code, "raw": "Local ISP IP filtered by Spamhaus; Brevo SMTP relay authorized"}
+
         # HARD BOUNCE (550, 551, 553, 5.1.1, User Unknown, Invalid Mailbox)
-        if code.startswith("5") or any(err in rcpt_resp.lower() for err in ["5.1.1", "user unknown", "does not exist", "invalid recipient", "no such user"]):
+        if any(err in rcpt_resp.lower() for err in ["5.1.1", "user unknown", "does not exist", "invalid recipient", "no such user"]):
+            return {"status": "HARD_BOUNCE", "code": code, "raw": clean_msg}
+        elif code.startswith("5"):
             return {"status": "HARD_BOUNCE", "code": code, "raw": clean_msg}
 
         # SOFT BOUNCE (450, 451, 452, 4.2.1, 4.2.2, Mailbox Full, Greylisting, Rate Limit)
