@@ -204,10 +204,11 @@ def verify_email_comprehensive(email: str) -> Dict[str, Any]:
         return result
 
     else:
-        # Fallback when port 25 is filtered locally: MX is present and valid
+        # STRICT BOUNCE SHIELD: If RCPT handshake could not complete (port 25 blocked or unverifiable),
+        # NEVER mark as deliverable. Treat as HIGH RISK to guarantee ZERO hard bounces.
         result["bounce_risk"] = "UNVERIFIABLE"
-        result["is_deliverable"] = True  # Safe to proceed under throttled conditions
-        result["reason"] = f"PORT_FILTERED_MX_VALID: MX {primary_mx} active, handshake blocked by ISP"
+        result["is_deliverable"] = False
+        result["reason"] = f"CANNOT_VERIFY_RCPT: Handshake blocked by ISP/Firewall. Rejected by strict shield to prevent bounce."
         return result
 
 # Backward compatible helper
