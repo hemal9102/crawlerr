@@ -22,10 +22,10 @@ flowchart TD
         EntityStore["Entity Graph / Clean Dataset"]
 
         Seed --> Queue
-        Queue -->|Pop Next URL| Dedup
-        Dedup -->|Unique Entity| Parser
-        Parser -->|Extract Links & Text| Queue
-        Parser -->|Commit Indexed Node| EntityStore
+        Queue -->|"Pop Next URL"| Dedup
+        Dedup -->|"Unique Entity"| Parser
+        Parser -->|"Extract Links and Text"| Queue
+        Parser -->|"Commit Indexed Node"| EntityStore
     end
 
     subgraph MailopsTelemetry["Subsystem 2: RFC 5321 Socket Telemetry & Mailops Verifier"]
@@ -46,14 +46,14 @@ flowchart TD
         Shield["Reputation Shield (Rate Limiter / Exponential Backoff)"]
 
         Candidate --> SyntaxFilter
-        SyntaxFilter -->|Valid Syntax| DNSResolver
+        SyntaxFilter -->|"Valid Syntax"| DNSResolver
         DNSResolver --> Connect
         Connect --> Banner --> Helo --> MailFrom
         MailFrom --> CatchAllProbe
-        CatchAllProbe -->|Returns 250 -> CATCH-ALL DETECTED| Shield
-        CatchAllProbe -->|Returns 550 -> STRICT BOUNCE FILTER ACTIVE| TargetProbe
-        TargetProbe -->|250 OK -> Deliverable| Ledger
-        TargetProbe -->|550 / Timeout -> Rejected| Shield
+        CatchAllProbe -->|"Returns 250 - Catch-All Detected"| Shield
+        CatchAllProbe -->|"Returns 550 - Strict Bounce Filter Active"| TargetProbe
+        TargetProbe -->|"250 OK - Deliverable"| Ledger
+        TargetProbe -->|"550 or Timeout - Rejected"| Shield
     end
 ```
 
