@@ -193,14 +193,14 @@ def verify_email_comprehensive(email: str) -> Dict[str, Any]:
         
         if catch_all_probe["status"] == "DELIVERABLE":
             result["is_catch_all"] = True
-            result["is_deliverable"] = True
-            result["bounce_risk"] = "NONE"
-            result["reason"] = "DELIVERABLE_CATCH_ALL: Server accepts all addresses for domain"
+            result["is_deliverable"] = False
+            result["bounce_risk"] = "HARD"
+            result["reason"] = "REJECTED_CATCH_ALL: Server accepts all addresses at socket level (high silent hard bounce risk)"
         else:
             result["is_catch_all"] = False
             result["is_deliverable"] = True
             result["bounce_risk"] = "NONE"
-            result["reason"] = f"VERIFIED_ACTIVE_MAILBOX: Direct 250 OK from {primary_mx}"
+            result["reason"] = f"VERIFIED_ACTIVE_MAILBOX: Direct 250 OK from {primary_mx} with strict anti-catchall clearance"
         return result
 
     else:
