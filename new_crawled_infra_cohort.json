@@ -1,0 +1,523 @@
+[
+  {
+    "company": "Speakeasy",
+    "domain": "speakeasyapi.dev",
+    "roles": [
+      {
+        "title": "Forward Deployed Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/speakeasy/def210b2-b6aa-421b-84c4-dcd278f95db9"
+      },
+      {
+        "title": "Product Engineer (Security) - AI Control Plane",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/speakeasy/7994e807-4a8f-4f2b-b16e-f1147a396a7b"
+      },
+      {
+        "title": "Product Engineer - AI Control Plane",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/speakeasy/df5263bd-c529-4563-9d93-136a5d5b1dd5"
+      },
+      {
+        "title": "Platform Engineer (SRE) - AI Control Plane",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/speakeasy/43904ba3-3792-4cc4-b097-6e98ca9a1b4b"
+      }
+    ]
+  },
+  {
+    "company": "Baseten",
+    "domain": "baseten.co",
+    "roles": [
+      {
+        "title": "Software Engineer - Dedicated Inference",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/fc6e5f2e-eb2d-4a6c-8a51-8422e8662bde"
+      },
+      {
+        "title": "Forward Deployed Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e"
+      },
+      {
+        "title": "Site Reliability Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/ff008b8e-b38d-4941-b24f-9a48c970e7fb"
+      },
+      {
+        "title": "Cloud Platform Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/916e9d62-492a-4562-971f-3e97e3868392"
+      },
+      {
+        "title": "Security Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/b85e4b1d-6531-46b5-bc8a-238f3761a50e"
+      },
+      {
+        "title": "Software Engineer - Infrastructure",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/ae64d1d4-7b0a-4be4-8d77-7f5ce63849a7"
+      },
+      {
+        "title": "Frontend Engineer - Dedicated Inference",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/3622a1ee-50a9-4c45-af6e-aa12bd5de22f"
+      },
+      {
+        "title": "Software Engineer - GPU Kernels",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/ddb5bc98-6116-49a2-802e-1c05398663f1"
+      },
+      {
+        "title": "Software Engineer - Training Infrastructure",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/6f947409-2bc0-491a-81b3-507cdc95df85"
+      },
+      {
+        "title": "Product Manager, Inference Platform",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/3027e0bc-731f-4fef-b081-2031590766fd"
+      },
+      {
+        "title": "Software Engineer - Training Product",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/126d54b4-a7bc-4456-bf4d-5d224e4f5d63"
+      },
+      {
+        "title": "Software Engineer - Model Performance Systems",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/75d7beac-0298-40fa-b206-2e0c0c08a64f"
+      },
+      {
+        "title": "Software Engineer - GPU Networking & Distributed Systems",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/1f7d7fda-5540-4205-890b-cdbf774f0814"
+      },
+      {
+        "title": "Data Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/c2ba6c50-d282-4478-98e9-668f94facde8"
+      },
+      {
+        "title": "Post-Training Research Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/68328a94-f785-463b-a3d7-b0dfc11839b5"
+      },
+      {
+        "title": "IT Support / Operations Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/c07eb44f-b5fa-4808-90b7-03b265d97836"
+      },
+      {
+        "title": "Software Engineer - Voice AI (Inference Runtime)",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/6e396eb7-acb3-436a-89ec-05e755c477f2"
+      },
+      {
+        "title": "Design Engineer (Brand Team)",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/81d573b6-741c-4140-a36b-6892456eca73"
+      },
+      {
+        "title": "Engineering Manager, Cloud Platform",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/0870ed34-7365-4b9f-a50a-481783b8c266"
+      },
+      {
+        "title": "Technical Program Manager, Infrastructure",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/7d9d5a1f-3834-434e-b22f-4bd62317be3c"
+      },
+      {
+        "title": "GTM Systems Manager",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/7a999a4e-5e04-4432-a7fe-86ad1151e061"
+      },
+      {
+        "title": "Executive Assistant to Head of Engineering",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/c29da145-0f53-4842-9f52-32b93a5b2f43"
+      },
+      {
+        "title": "AI Inference Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/db6477fc-111a-4340-bf00-525fe023e6f3"
+      },
+      {
+        "title": "Software Engineer - Observability",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/3e925ab1-2089-4a79-989e-50479b546eda"
+      },
+      {
+        "title": "Software Engineer - Continuous Delivery",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/fb886b59-fdc3-4315-a9b3-c49808bcd2ce"
+      },
+      {
+        "title": "Software Engineer - Testing Frameworks",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/78028a72-2431-4373-aaec-d6e2c9a1cc7d"
+      },
+      {
+        "title": "Software Engineer - AI Developer Productivity",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/e71e97a8-6367-4050-b6a9-42ce62ec78f1"
+      },
+      {
+        "title": "Forward Deployed Engineer (Training)",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/11ab2593-6648-4943-ab4a-284fe7e89720"
+      },
+      {
+        "title": "AI Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/b13ec426-d09d-4122-8112-cf25adbd7d60"
+      },
+      {
+        "title": "GTM Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/5cd2f489-b9ee-428b-b252-94e83d55f107"
+      },
+      {
+        "title": "Technical Program Manager, Model Performance",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/40bce839-10ad-4274-a988-7cee8e0f795e"
+      },
+      {
+        "title": "AI Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/64181d8a-960d-4aa4-8d98-3cb22b1e0616"
+      },
+      {
+        "title": "IT Support / Operations Engineer (NY)",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/4dcdf587-38f3-4363-8033-a453f54b38b0"
+      },
+      {
+        "title": "Product Platform - Product Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/7428d7cc-36d7-4d02-b19a-bd558fba6751"
+      },
+      {
+        "title": "Technical Program Manager, Forward Deployed Engineering",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/976f89ef-1065-45a7-8b51-31fecd1ef1e6"
+      },
+      {
+        "title": "Software Engineer - Inference Performance",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/7cb19a05-8e5b-44cf-b3e7-19949e2eff04"
+      },
+      {
+        "title": "Software Engineer - Inference Platform",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/14c4a663-0b1f-4c11-93ff-1359741ee456"
+      },
+      {
+        "title": "Engineering Manager, Inference Performance",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/6b105131-d5d6-4d41-96ce-7fe71ff87769"
+      },
+      {
+        "title": "Engineering Manager, Runtime - Storage ",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/b6ef1aed-8e71-4b31-9cfe-e95d793c8604"
+      },
+      {
+        "title": "IT Systems Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/64bdba5c-8cf6-473f-814c-1e86c8c66681"
+      },
+      {
+        "title": "Software Engineer - Identity & Authorization",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/86331c05-a6b0-4a9f-991d-b46091b696b5"
+      },
+      {
+        "title": "Software Engineer - Billing & Internal Tooling",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/34fd4416-49f3-4ef7-b9f8-5883f8d0710c"
+      },
+      {
+        "title": "Software Engineer - Partner Platform",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/08bededd-d362-453e-b014-384a2003cbf1"
+      },
+      {
+        "title": "Product Platform - Backend Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/26af6cd9-6ef1-4d6b-b5f6-77a581e45dc4"
+      },
+      {
+        "title": "Software Engineer - Compute and Isolation",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/7c0ba27d-2f09-42f2-9277-1b756076b00b"
+      },
+      {
+        "title": "Software Engineer - Networking (Agent Infra)",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/d7e9ee32-dee8-459f-9d8a-538d65df51ae"
+      },
+      {
+        "title": "Software Engineer - Storage Systems (Agent Infra)",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/baseten/ed8ab178-e7a4-4524-8714-7ef55d574c7d"
+      }
+    ]
+  },
+  {
+    "company": "Unstructured",
+    "domain": "unstructured.io",
+    "roles": [
+      {
+        "title": "Software Engineer - Public Sector",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/unstructured/8db76ba9-7c3a-451c-8e6d-c3447e6cbe75"
+      },
+      {
+        "title": "Principal + Staff Software Engineers",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/unstructured/8ab839b1-176c-4178-9996-7ce453497b6f"
+      },
+      {
+        "title": "AI Engineer - Public Sector",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/unstructured/9df95483-7177-4f98-850e-4abbdf530434"
+      }
+    ]
+  },
+  {
+    "company": "PlanetScale",
+    "domain": "planetscale.com",
+    "roles": [
+      {
+        "title": "AI Developer Experience Engineer",
+        "location": "Remote US ",
+        "url": "https://job-boards.greenhouse.io/planetscale/jobs/4463390009"
+      },
+      {
+        "title": "Customer Support Engineer",
+        "location": "EMEA or NA",
+        "url": "https://job-boards.greenhouse.io/planetscale/jobs/4391516009"
+      },
+      {
+        "title": "Customer Support Engineer",
+        "location": "US",
+        "url": "https://job-boards.greenhouse.io/planetscale/jobs/4417171009"
+      },
+      {
+        "title": "Enterprise Support Engineer",
+        "location": "Remote - NA, APAC, EMEA",
+        "url": "https://job-boards.greenhouse.io/planetscale/jobs/4009926009"
+      },
+      {
+        "title": "Software Engineer - Internal Tools",
+        "location": "San Francisco Office",
+        "url": "https://job-boards.greenhouse.io/planetscale/jobs/4389100009"
+      },
+      {
+        "title": "Software Engineer - PlanetScale Postgres",
+        "location": "Remote",
+        "url": "https://job-boards.greenhouse.io/planetscale/jobs/4251150009"
+      },
+      {
+        "title": "Solutions Engineer",
+        "location": "Remote - EMEA, Remote - NA",
+        "url": "https://job-boards.greenhouse.io/planetscale/jobs/4052805009"
+      }
+    ]
+  },
+  {
+    "company": "Yugabyte",
+    "domain": "yugabyte.com",
+    "roles": [
+      {
+        "title": " Director of Engineering, Core Database",
+        "location": "Sunnyvale, CA",
+        "url": "https://job-boards.greenhouse.io/yugabyte/jobs/4655788006"
+      },
+      {
+        "title": "Solutions Engineer",
+        "location": "Remote, USA",
+        "url": "https://job-boards.greenhouse.io/yugabyte/jobs/4682542006"
+      },
+      {
+        "title": "Sr Software Engineer",
+        "location": "India",
+        "url": "https://job-boards.greenhouse.io/yugabyte/jobs/4679058006"
+      },
+      {
+        "title": "Staff Engineer",
+        "location": "India",
+        "url": "https://job-boards.greenhouse.io/yugabyte/jobs/4651617006"
+      },
+      {
+        "title": "Staff Engineer Distributed Storage and Transaction",
+        "location": "Sunnyvale, CA",
+        "url": "https://job-boards.greenhouse.io/yugabyte/jobs/4720338006"
+      },
+      {
+        "title": "Staff Engineer SQL Engine",
+        "location": "Sunnyvale, CA",
+        "url": "https://job-boards.greenhouse.io/yugabyte/jobs/4651508006"
+      },
+      {
+        "title": "Technical Support Engineer ",
+        "location": "Remote, USA",
+        "url": "https://job-boards.greenhouse.io/yugabyte/jobs/4683728006"
+      },
+      {
+        "title": "Technical Support Engineer APJ",
+        "location": "India",
+        "url": "https://job-boards.greenhouse.io/yugabyte/jobs/4677134006"
+      }
+    ]
+  },
+  {
+    "company": "Tailscale",
+    "domain": "tailscale.com",
+    "roles": [
+      {
+        "title": "Analytics Engineer, Data",
+        "location": "Remote (Canada)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4721252005"
+      },
+      {
+        "title": "Analytics Engineer, Data",
+        "location": "Remote (United States)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4721289005"
+      },
+      {
+        "title": "Customer Reliability Engineer",
+        "location": "Remote (Canada)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4715148005"
+      },
+      {
+        "title": "Customer Reliability Engineer",
+        "location": "Remote (United States)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4715160005"
+      },
+      {
+        "title": "Customer Support Engineer (Tier 1)",
+        "location": "Remote (United Kingdom)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4724314005"
+      },
+      {
+        "title": "Director, APAC Go-to-Market",
+        "location": "Remote (Singapore)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4726020005"
+      },
+      {
+        "title": "Forward Deployed Engineer",
+        "location": "Remote (United States)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4724897005"
+      },
+      {
+        "title": "Forward Deployed Engineer",
+        "location": "Remote (Canada)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4724854005"
+      },
+      {
+        "title": "Infrastructure Engineer",
+        "location": "Remote (United States)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4733404005"
+      },
+      {
+        "title": "Infrastructure Engineer",
+        "location": "Remote (Canada)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4733403005"
+      },
+      {
+        "title": "Security Infrastructure Engineer",
+        "location": "Remote (Canada)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4726152005"
+      },
+      {
+        "title": "Security Infrastructure Engineer",
+        "location": "Remote (United States)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4726153005"
+      },
+      {
+        "title": "Senior Solutions Engineer, Enterprise",
+        "location": "Remote (United States)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4741470005"
+      },
+      {
+        "title": "Software Engineer, AI Enablement ",
+        "location": "Remote (Canada)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4710703005"
+      },
+      {
+        "title": "Software Engineer, AI Enablement ",
+        "location": "Remote (United States)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4710755005"
+      },
+      {
+        "title": "Software Engineer, AI Enablement ",
+        "location": "Remote (United Kingdom)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4718557005"
+      },
+      {
+        "title": "Software Engineer, Networking (Dataplane)",
+        "location": "Remote (United States)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4732897005"
+      },
+      {
+        "title": "Software Engineer, Networking (Dataplane)",
+        "location": "Remote (Canada)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4732874005"
+      },
+      {
+        "title": "Software Engineer, Networking (Features)",
+        "location": "Remote (United States)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4739667005"
+      },
+      {
+        "title": "Software Engineer, Networking (Features)",
+        "location": "Remote (Canada)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4739666005"
+      },
+      {
+        "title": "Software Engineer, Strategic Projects",
+        "location": "Remote (United States)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4721714005"
+      },
+      {
+        "title": "Software Engineer, Strategic Projects",
+        "location": "Remote (Canada)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4721713005"
+      },
+      {
+        "title": "Solutions Engineer - Commercial (Expansion Sales)",
+        "location": "Remote (Canada)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4715835005"
+      },
+      {
+        "title": "Solutions Engineer - Commercial (Expansion Sales)",
+        "location": "Remote (United States)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4715836005"
+      },
+      {
+        "title": "Solutions Engineer - Commercial (New Business)",
+        "location": "Remote (Canada)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4722325005"
+      },
+      {
+        "title": "Solutions Engineer - Commercial (New Business)",
+        "location": "Remote (United States)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4722326005"
+      },
+      {
+        "title": "Windows Engineer",
+        "location": "Remote (United States)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4710785005"
+      },
+      {
+        "title": "Windows Engineer",
+        "location": "Remote (Canada)",
+        "url": "https://job-boards.greenhouse.io/tailscale/jobs/4710781005"
+      }
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "category": "AI Agents & Automation Infrastructure",
+    "startup_count": 9,
+    "startups": [
+      "Revfer (https://betalist.com/startups/revfer)",
+      "Hostly (https://betalist.com/startups/hostly)",
+      "SubSplitHQ (https://betalist.com/startups/subsplithq)",
+      "DeskBot (https://betalist.com/startups/deskbot)",
+      "Sickle (https://betalist.com/startups/sickle)",
+      "BasicOps (https://betalist.com/startups/basicops)",
+      "Muster (https://betalist.com/startups/muster)",
+      "call4me (https://betalist.com/startups/call4me)",
+      "Tally (https://betalist.com/startups/tillytally)"
+    ],
+    "current_est_aggregate_networth_usd": "$31.5M",
+    "avg_seed_valuation_per_startup": "$3.5M",
+    "five_year_projected_category_cap": "$198.4M - $472.5M",
+    "power_law_growth_multiple": "18x - 30x",
+    "market_driver": "Rapid migration from static prompt wrappers to autonomous OS/MCP execution runtimes."
+  },
+  {
+    "category": "AI Developer Tools & Code Reviews",
+    "startup_count": 3,
+    "startups": [
+      "convert.express (https://betalist.com/startups/convert-express)",
+      "HeyDeer (https://betalist.com/startups/heydeer)",
+      "Convert PDF to Google Sheets (https://betalist.com/startups/convert-pdf-to-google-sheets)"
+    ],
+    "current_est_aggregate_networth_usd": "$8.4M",
+    "avg_seed_valuation_per_startup": "$2.8M",
+    "five_year_projected_category_cap": "$35.3M - $84.0M",
+    "power_law_growth_multiple": "12x - 20x",
+    "market_driver": "Developer productivity enhancement and automated CI/CD code gatekeeping."
+  },
+  {
+    "category": "Autonomous SEO & Growth Engines",
+    "startup_count": 3,
+    "startups": [
+      "Fraya (https://betalist.com/startups/fraya)",
+      "OpenSEO (https://betalist.com/startups/openseo)",
+      "TadaSEO (https://betalist.com/startups/tadaseo)"
+    ],
+    "current_est_aggregate_networth_usd": "$6.6M",
+    "avg_seed_valuation_per_startup": "$2.2M",
+    "five_year_projected_category_cap": "$18.5M - $49.5M",
+    "power_law_growth_multiple": "8x - 15x",
+    "market_driver": "Disruption of traditional SEMrush/Ahrefs monopolies via open-source and generative search indexing."
+  },
+  {
+    "category": "Media Generation & Creative AI",
+    "startup_count": 6,
+    "startups": [
+      "KiriFrame (https://betalist.com/startups/kiriframe)",
+      "Quady3D AI (https://betalist.com/startups/quady3d-ai)",
+      "Seedance 2.5 (https://betalist.com/startups/seedance-2-5-2)",
+      "RoomStaging (https://betalist.com/startups/roomstaging)",
+      "AI Shorts (https://betalist.com/startups/aishorts)",
+      "Cullit (https://betalist.com/startups/cullit)"
+    ],
+    "current_est_aggregate_networth_usd": "$15.0M",
+    "avg_seed_valuation_per_startup": "$2.5M",
+    "five_year_projected_category_cap": "$52.5M - $165.0M",
+    "power_law_growth_multiple": "10x - 22x",
+    "market_driver": "High-throughput 3D mesh and synthetic cinematic short-form video generation."
+  },
+  {
+    "category": "B2B Vertical Workspaces & Management",
+    "startup_count": 13,
+    "startups": [
+      "headoffis (https://betalist.com/startups/headoffis)",
+      "SideAway (https://betalist.com/startups/sideaway)",
+      "Perfect HOA (https://betalist.com/startups/perfect-hoa)",
+      "The Care Ratings (https://betalist.com/startups/the-care-ratings)",
+      "Ceremonia (https://betalist.com/startups/ceremonia)",
+      "asia.storage (https://betalist.com/startups/asia-storage)",
+      "Trakrio (https://betalist.com/startups/trakrio)",
+      "EveryCalc (https://betalist.com/startups/everycalc)",
+      "RentalThread (https://betalist.com/startups/rentalthread)",
+      "Neon Charging (https://betalist.com/startups/neon-charging)",
+      "Retello (https://betalist.com/startups/retello)",
+      "Pixloud (https://betalist.com/startups/pixloud)",
+      "Kantamigo (https://betalist.com/startups/kantamigo)"
+    ],
+    "current_est_aggregate_networth_usd": "$26.0M",
+    "avg_seed_valuation_per_startup": "$2.0M",
+    "five_year_projected_category_cap": "$54.6M - $156.0M",
+    "power_law_growth_multiple": "6x - 12x",
+    "market_driver": "Digitization of neglected offline brick-and-mortar operations (HOA, EV chargers, rentals)."
+  },
+  {
+    "category": "Fintech, Budgeting & Split Billing",
+    "startup_count": 4,
+    "startups": [
+      "Cash Flow Calendar (https://betalist.com/startups/cash-flow-calendar)",
+      "Nimblewit (https://betalist.com/startups/nimblewit)",
+      "CyronTek Research Ltd (https://betalist.com/startups/cyrontek-research-ltd)",
+      "BrideSpark (https://betalist.com/startups/bridespark)"
+    ],
+    "current_est_aggregate_networth_usd": "$12.0M",
+    "avg_seed_valuation_per_startup": "$3.0M",
+    "five_year_projected_category_cap": "$37.8M - $108.0M",
+    "power_law_growth_multiple": "9x - 18x",
+    "market_driver": "Micro-fintech tackling irregular freelance gig-income and automated multi-tenant bill splitting."
+  }
+]

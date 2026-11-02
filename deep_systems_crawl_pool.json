@@ -1,0 +1,959 @@
+[
+  {
+    "company": "Cartesia",
+    "domain": "cartesia.ai",
+    "roles": [
+      {
+        "title": "Inference Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/cartesia/bd9d6688-5486-470f-a273-20874a44f107"
+      },
+      {
+        "title": "Enterprise Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/cartesia/84231d95-3bf2-480a-ab2b-fd958f97cf0b"
+      },
+      {
+        "title": "Software Engineer, Agent Harness",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/cartesia/16cd6cd7-454b-4e44-9a04-6a4677a3e920"
+      },
+      {
+        "title": "Engineering Manager, Data",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/cartesia/6f65b698-4c1d-4439-9990-2a31c847dd21"
+      },
+      {
+        "title": "Engineering Manager, Infrastructure",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/cartesia/eb5ca11e-86c6-4a8b-9c94-95d90a1b0cf0"
+      },
+      {
+        "title": "Engineering Manager, Product",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/cartesia/af90c0c2-cabc-4c31-a214-77c3014ac91d"
+      },
+      {
+        "title": "Research Engineer, Data Infrastructure (Language Modeling)",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/cartesia/6ca9b352-6a7b-42a3-a7c4-8f071712db90"
+      },
+      {
+        "title": "Strategic Partnerships Manager, Systems Integrators",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/cartesia/34e2217c-532d-4ed8-9f3e-e78677900bb2"
+      }
+    ]
+  },
+  {
+    "company": "Deepgram",
+    "domain": "deepgram.com",
+    "roles": [
+      {
+        "title": "Strategic Account Executive (Chicago/MidWest)",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/7fe7bd7d-b337-4337-b459-a892be80789e"
+      },
+      {
+        "title": "People AI & Automation Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/bf8ea79f-f380-467e-8349-ea1ea8281316"
+      },
+      {
+        "title": "Senior Pre-Sales Solutions Engineer - Europe",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/7ac1a5bc-f305-4f2a-a547-394566a549b2"
+      },
+      {
+        "title": "Software Engineer - Applied AI (Senior or Staff Level)",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/68372d7d-b7a9-439e-a0a7-76690576aba4"
+      },
+      {
+        "title": "Customer Success Engineer (Singapore)",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/4cc235e0-f195-4f44-84f3-c30e07c4a388"
+      },
+      {
+        "title": "Research Engineer, Machine Learning Systems",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/9a030b32-d671-43e0-a221-4653bb73ba29"
+      },
+      {
+        "title": "Backend Software Engineer - Engine Team (Voice Agent)",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/7c7064bb-2bf0-4f64-81cc-14afe79a15c1"
+      },
+      {
+        "title": "Software Engineer, Voice Agents & AI (Senior or Staff Level)",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/4a873ede-8555-42ae-9ddc-ac89afdd7278"
+      },
+      {
+        "title": "Senior Forward-Deployed Engineer, Federal",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/2fc57802-1d2d-4796-aaea-e00586dc6792"
+      },
+      {
+        "title": "Backend Engineer- Inference Services",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/2084edc0-2df0-4bd4-b759-0f05c38d5ef5"
+      },
+      {
+        "title": "Senior Solutions Engineer, Federal",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/b10db691-f77c-4a65-8f7c-ff9574f53f1e"
+      },
+      {
+        "title": "ML Ops Infrastructure Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/7ced4c1f-4126-44fe-9cf1-da427a9e4e3e"
+      },
+      {
+        "title": "Billing & Analytics Software Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/378e83b4-28c0-4b4e-8cf0-9355712bd06d"
+      },
+      {
+        "title": "Senior Data Intelligence Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/ae992d89-1bb3-4bea-ae91-0a07043e9756"
+      },
+      {
+        "title": "Sr. Backend Engineer - Engine Team: API",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/d98e6723-3485-4b58-9494-d6bf028fa905"
+      },
+      {
+        "title": "Applied ML Engineer -  Edge Devices",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/94ae2781-a85f-493a-86c1-ff85a9289355"
+      },
+      {
+        "title": "Embedded AI Engineer, On-Device Models",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/0b7494b3-a91e-4540-9439-5b10a1e5b391"
+      },
+      {
+        "title": "Staff Product Manager, Agentic Experiences (Former Engineer)",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/17f95148-fa1c-4c34-82c8-333589bef789"
+      },
+      {
+        "title": "Customer Success Engineer ( London)",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/d9d5aa44-b675-46e9-b596-45c1c5dca858"
+      },
+      {
+        "title": "Senior Pre-Sales Solutions Engineer (Australia)",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/8a9bcce3-858f-4cc0-8459-2fe552b6aaa5"
+      },
+      {
+        "title": "Senior Pre-Sales Solutions Engineer (Singapore)",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/d28f0a61-4a59-4817-b101-3457077b01b7"
+      },
+      {
+        "title": "Staff Web Engineer, Marketing",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/4f9648d7-e25c-440c-8ec6-566a405c7c23"
+      },
+      {
+        "title": "Customer Success Engineer (Scaled)",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/b856d0c2-df8e-492a-9044-62b0fd3c30b6"
+      },
+      {
+        "title": "Forward-Deployed Engineer (FDE), Strategic Accounts",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/4bfadd29-fa58-4e06-bbf0-7b5dbc41a621"
+      },
+      {
+        "title": "Senior Forward Deployed Engineer (FDE), Strategic Accounts",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/1645ceac-3ef9-45ba-8386-49c7c43b14f0"
+      },
+      {
+        "title": "Security Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/89c0ef18-7433-4c0e-b136-4b03f326c86f"
+      },
+      {
+        "title": "Senior Analytics Engineer - Decision Intelligence",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/7992391d-a890-41f7-85c8-849e0b878981"
+      },
+      {
+        "title": "Research Engineer, Post-Training",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/dcea53a5-5650-406d-a154-fad077c4b81b"
+      },
+      {
+        "title": "Director, GTM Engineering",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/e8b2cd20-bd98-4977-b9a9-cfa6868cc122"
+      },
+      {
+        "title": "Staff Sales Engineer, Voice AI",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/deepgram/4caace1a-beb8-43bc-a69a-4952e6214af7"
+      }
+    ]
+  },
+  {
+    "company": "Tavily",
+    "domain": "tavily.com",
+    "roles": [
+      {
+        "title": "Forward Deployed Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/tavily/1999e01d-f9e3-4f43-a097-812c0800fb0f"
+      },
+      {
+        "title": "Data Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/tavily/70bcbe09-fc44-4512-922b-92031be7df8a"
+      },
+      {
+        "title": "Front-End Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/tavily/fabd9b1b-a85b-4e74-a0ee-44f7251df743"
+      },
+      {
+        "title": "Software Engineer - Web Crawling",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/tavily/2bf1e995-6aa1-49a6-9929-e72f6d787274"
+      },
+      {
+        "title": "DevOps Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/tavily/6829aa3b-ffa2-4007-b057-2a22e3593cc6"
+      },
+      {
+        "title": "DevOps Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/tavily/96902937-4896-44cc-b4f3-5d57c3cb8c22"
+      },
+      {
+        "title": "Software Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/tavily/58948731-c993-4127-a723-a96b1dcd841c"
+      }
+    ]
+  },
+  {
+    "company": "Modal",
+    "domain": "modal.com",
+    "roles": [
+      {
+        "title": "Member of Technical Staff - Systems",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/modal/9b33ebe7-e829-4f03-97ba-5c94dbd7daf6"
+      },
+      {
+        "title": "Forward Deployed Engineer - ML",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/modal/9fadb51f-ce11-41b1-84d5-470e66cc8ee9"
+      },
+      {
+        "title": "Member of Technical Staff - ML Performance",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/modal/af17da5e-23ca-4802-854d-5f0546e1ed32"
+      },
+      {
+        "title": "Forward Deployed Engineer - Systems",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/modal/cbbbee50-3d3b-4873-8ae8-ff4b885b8e54"
+      },
+      {
+        "title": "Developer Relations Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/modal/546c9eb1-aaf7-47ba-8e9d-0bcd443b3e94"
+      },
+      {
+        "title": "Member of Technical Staff - Product (Backend)",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/modal/a4b8b2b6-5d0c-4ba6-9256-b84be84fb79e"
+      },
+      {
+        "title": "Member of Technical Staff - Systems",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/modal/3b3c6c42-326e-40c5-b78d-9f556739513b"
+      },
+      {
+        "title": "Member of Technical Staff - Platform Engineering",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/modal/84467a68-6876-4730-9d80-6c6f3d0c2d71"
+      },
+      {
+        "title": "Systems Engineering Manager",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/modal/aa4c345a-66e1-45b7-8c75-b7b4a0662eaa"
+      },
+      {
+        "title": "Infrastructure Security Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/modal/8de60620-09bf-4905-910f-a290814a29ee"
+      },
+      {
+        "title": "Systems Engineering Manager",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/modal/b16126e4-cf92-4db9-955e-0da6eec0574d"
+      },
+      {
+        "title": "Detection and Response Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/modal/e1915603-d9de-4760-b445-c266a1080499"
+      },
+      {
+        "title": "Analytics Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/modal/a518f2cd-e0c7-4105-9004-d7971f7b1daf"
+      },
+      {
+        "title": "Documentation Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/modal/f3b0e8e8-d7f5-441c-9a83-d7711543f541"
+      },
+      {
+        "title": "Inference Engineering and Product Lead ",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/modal/ead55e1a-873d-4837-8450-95fe8f4c8931"
+      },
+      {
+        "title": "Member of Technical Staff - Storage",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/modal/e5935496-bd80-48ca-9cf9-906ab1352662"
+      },
+      {
+        "title": "Member of Technical Staff - Inference Runtime",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/modal/6195f552-ca6f-4540-b7f6-e7e6054e47ad"
+      },
+      {
+        "title": "Member of Technical Staff - Storage (Stockholm)",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/modal/34858ff6-aecf-4c58-9574-ed67ebf700c8"
+      },
+      {
+        "title": "GTM Engineer - Data Platform",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/modal/dd6fe63b-8265-474e-b1f0-fcc1c5a28daf"
+      }
+    ]
+  },
+  {
+    "company": "LiveKit",
+    "domain": "livekit.io",
+    "roles": [
+      {
+        "title": "Software Engineer, Agents",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/livekit/1757f49e-7e19-4c45-85f7-e4637dff66fb"
+      },
+      {
+        "title": "Security Engineer, Infrastructure Security",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/livekit/03f4997e-8c86-4067-b929-8b3f16a9de35"
+      },
+      {
+        "title": "Design Engineer, Web/Brand",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/livekit/88a67836-6ec6-4112-a69c-77bc9c7a369d"
+      },
+      {
+        "title": "Security Engineer, Vulnerability Management",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/livekit/f0c49b41-8390-4c8e-8f52-478bb043dbfe"
+      },
+      {
+        "title": "Forward Deployed Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/livekit/b889ef16-4d5d-4b71-b0a9-682026a0a1ee"
+      },
+      {
+        "title": "Developer Success Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/livekit/5d4461df-f7b6-4f34-a084-5abfe069b2be"
+      },
+      {
+        "title": "Senior Software Engineer, Distributed Systems",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/livekit/ca47c69a-36eb-48cb-b61b-4134eff78030"
+      },
+      {
+        "title": "Senior Product Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/livekit/463e2769-bb85-4429-96a3-3a175eb228cd"
+      },
+      {
+        "title": "GTM Systems Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/livekit/c8098929-c448-4d69-b164-0273e996abcf"
+      },
+      {
+        "title": "Forward Deployed Engineer ",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/livekit/2b51446f-f78f-41da-91f9-41d5207c5bd0"
+      },
+      {
+        "title": "Developer Success Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/livekit/f016e771-0be2-4dd7-820d-af360d0d7402"
+      },
+      {
+        "title": "Forward Deployed Engineer ",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/livekit/529000fe-c437-41d3-94a3-8548e61c31b8"
+      },
+      {
+        "title": "Staff Software Engineer, Distributed Systems",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/livekit/b278b3c7-f9cd-4564-9c6b-ee655de75039"
+      },
+      {
+        "title": "IT Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/livekit/e8c2864e-7b1c-4618-a46d-a9227339c82b"
+      },
+      {
+        "title": "Research Engineer (Reinforcement Learning)",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/livekit/b0c02c3f-790f-4cd8-960d-220800d35367"
+      },
+      {
+        "title": "Forward Deployed Engineer, Spanish/English",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/livekit/0463a198-fcf4-42c6-ac03-5d764cbde0f3"
+      },
+      {
+        "title": "Senior Product Designer, Developer Platform",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/livekit/0684ae7c-4fd5-411e-a10c-3773e584cd97"
+      }
+    ]
+  },
+  {
+    "company": "Warp",
+    "domain": "warp.dev",
+    "roles": [
+      {
+        "title": "Software Engineer, Product",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/warp/655962db-5fbe-40cc-a072-9522295b3cbc"
+      },
+      {
+        "title": "Design Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/warp/34541a68-50a9-44c2-9651-eb3ca4a39be4"
+      },
+      {
+        "title": "GTM Engineer \u2013 Revenue Systems",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/warp/6b4c450d-ab42-426e-afef-32396b9560a6"
+      },
+      {
+        "title": "Senior Software Engineer, Product",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/warp/1670f730-5ed7-4462-b2b8-0d0494758360"
+      },
+      {
+        "title": "Applied AI Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/warp/718d38f5-dc6c-43cd-b7e5-ce70eab048d6"
+      }
+    ]
+  },
+  {
+    "company": "Resend",
+    "domain": "resend.com",
+    "roles": [
+      {
+        "title": "Security Engineer, Platform",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/resend/cde17f7c-4c70-435f-be38-ef5abe94ff22"
+      },
+      {
+        "title": "Backend Engineer, MTA",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/resend/053bde8f-294e-4cce-9d62-2301282120a2"
+      },
+      {
+        "title": "Security Engineer, Platform",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/resend/8c290ac4-22b4-4072-86e0-b6f5a97213d6"
+      },
+      {
+        "title": "Customer Success Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/resend/01e6eb42-142b-4f33-9944-ca153bd3ae86"
+      },
+      {
+        "title": "Backend Engineer, MTA",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/resend/c4c5eb8c-e6ac-49f5-9dc7-a68ce0948929"
+      },
+      {
+        "title": "Backend Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/resend/df2fe05d-87ca-4e87-a66d-50bb2c9c4859"
+      },
+      {
+        "title": "Backend Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/resend/6589bee8-3ec9-4620-90b6-890b23464c4d"
+      },
+      {
+        "title": "Software Engineer, Developer Tools",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/resend/53d3710a-2d55-42ac-ba90-cdfd306bf560"
+      },
+      {
+        "title": "Software Engineer, Developer Tools",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/resend/2e3d92c5-79d9-4511-8faf-e2326e7a081e"
+      },
+      {
+        "title": "Software Engineer, Trust & Safety ",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/resend/73a37f4c-02d9-40e4-a116-70507ed413b9"
+      },
+      {
+        "title": "Software Engineer, Trust & Safety ",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/resend/729ad3fa-10a2-4a07-ba9c-13b6eec6adb1"
+      },
+      {
+        "title": "Platform Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/resend/a9fc1d02-cace-4be9-8d3d-16f4fb137b39"
+      },
+      {
+        "title": "Platform Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/resend/76dcf582-cf8b-49dd-899b-d453d6af430e"
+      }
+    ]
+  },
+  {
+    "company": "Railway",
+    "domain": "railway.app",
+    "roles": [
+      {
+        "title": "Senior Full-Stack Engineer - Product",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/railway/6ddcfe47-6cce-469b-ba6d-4f0e83440c9d"
+      },
+      {
+        "title": "Infrastructure Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/railway/b8072f95-043f-404d-a313-f0bdf8dd3c81"
+      },
+      {
+        "title": "Infra Engineer - Datacenters",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/railway/541836a1-6d3f-47bf-845f-5f48fe547568"
+      },
+      {
+        "title": "Senior Platform Engineer: Storage",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/railway/25d8444a-47dc-4084-ae56-29a0f0b19b74"
+      },
+      {
+        "title": "Senior Infra Engineer: Observability",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/railway/4856389c-44d8-4635-ba51-5fc1b8a49ca8"
+      },
+      {
+        "title": "Senior Infra Engineer: Baremetal Orchestration",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/railway/d93c8794-6058-4295-83a0-092b05664f34"
+      },
+      {
+        "title": "Senior Product Engineer, Scalability",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/railway/5f51771e-339f-49f9-8da2-e3c7179c7bad"
+      }
+    ]
+  },
+  {
+    "company": "Inngest",
+    "domain": "inngest.com",
+    "roles": [
+      {
+        "title": "Distributed Systems Engineer - Platform",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/inngest/ae72d036-b98b-4abb-8454-a687870cf0ca"
+      },
+      {
+        "title": "Developer Success Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/inngest/33b9f4ae-3be8-4a00-8548-8a00c276fd88"
+      }
+    ]
+  },
+  {
+    "company": "LlamaIndex",
+    "domain": "llamaindex.ai",
+    "roles": [
+      {
+        "title": "Member of Technical Staff, Backend",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/llamaindex/a2f14066-9e18-4da3-8861-2da3230e393c"
+      },
+      {
+        "title": "Technical Lead Manager - Platform Engineering",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/llamaindex/0f8bdc04-5d1d-4db1-a888-3f367cb4469e"
+      }
+    ]
+  },
+  {
+    "company": "Braintrust",
+    "domain": "braintrustdata.com",
+    "roles": [
+      {
+        "title": "Software Engineer, Systems",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/braintrust/8b9cfa26-627f-442c-a358-783b0e4ef930"
+      },
+      {
+        "title": "Software Engineer, Product",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/braintrust/7d0a5b62-a554-48f0-b2f7-8cbac0e98ae6"
+      },
+      {
+        "title": "Design Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/braintrust/57487086-68ae-4c81-8c62-c6157c20e4ac"
+      },
+      {
+        "title": "Software Engineer, SDK",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/braintrust/2a6c4ee9-063f-45d4-83ba-faf64b1f1a60"
+      },
+      {
+        "title": "Solutions Engineer (West Region)",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/braintrust/8f7560d2-cfb1-4e3a-92d1-8e24b532d10c"
+      },
+      {
+        "title": "Solutions Engineer (East Region)",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/braintrust/e1bc9095-2460-4cf4-957f-ba076b6cb5ba"
+      },
+      {
+        "title": "Software Engineer, Developer Experience",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/braintrust/b4ea5780-8b8c-4969-a824-416a70de23c2"
+      },
+      {
+        "title": "Founding Data Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/braintrust/d1756ad8-be7c-4acd-961e-7e81e4f69024"
+      },
+      {
+        "title": "Developer Support Engineer (Singapore)",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/braintrust/4d483594-8864-455b-b0b4-939992455198"
+      },
+      {
+        "title": "Detection and Response Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/braintrust/e32cd249-c23d-4064-8f06-949f91a73a98"
+      },
+      {
+        "title": "Platform Support Engineer",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/braintrust/15f6868c-4172-4568-b39f-d9047c092ca8"
+      },
+      {
+        "title": "Developer Support Engineer (London)",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/braintrust/8eab6b79-6c58-4a17-b93e-4b9fc5cbfbb5"
+      },
+      {
+        "title": "Software Engineer, Billing",
+        "location": "Remote",
+        "url": "https://jobs.ashbyhq.com/braintrust/525eda64-5ca0-46c5-bac2-ef8056d3f10c"
+      }
+    ]
+  },
+  {
+    "company": "TogetherAI",
+    "domain": "together.ai",
+    "roles": [
+      {
+        "title": "AI Infrastructure System Engineer Bangalore ",
+        "location": "Bangalore, India",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5180155007"
+      },
+      {
+        "title": "AI Infrastructure Systems Engineer",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5138540007"
+      },
+      {
+        "title": "AI Infrastructure Systems Engineer (Amsterdam & London)",
+        "location": "Amsterdam ",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/4555544007"
+      },
+      {
+        "title": "Associate, Infrastructure Strategy & Operations",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5152193007"
+      },
+      {
+        "title": "Customer Success Engineer (CSE), GPU Cluster",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5123203007"
+      },
+      {
+        "title": "Forward Deployed Engineer (Inference & Post-Training) - Mandarin Speaking",
+        "location": "Singapore",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5199993007"
+      },
+      {
+        "title": "Forward Deployed Engineer, Post-Training",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5274195007"
+      },
+      {
+        "title": "Forward Deployed Engineer, Strategic Inference ",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5131941007"
+      },
+      {
+        "title": "GTM Engineer",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5178712007"
+      },
+      {
+        "title": "Hardware Security Engineer Intern (Summer 2027)",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238469007"
+      },
+      {
+        "title": "Hardware Security Engineer, New Grad (2027)",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238471007"
+      },
+      {
+        "title": "[Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure Engineering",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5186628007"
+      },
+      {
+        "title": "Lead/Manager AI Infra Systems Engineering Team (Amsterdam) ",
+        "location": "Amsterdam ",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5090473007"
+      },
+      {
+        "title": "Lead/Manager Together Cloud Infrastructure ",
+        "location": "Amsterdam",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5145183007"
+      },
+      {
+        "title": "Machine Learning Engineer - Inference",
+        "location": "San Francisco ",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/4385540007"
+      },
+      {
+        "title": "Platform Engineer, Model Shaping",
+        "location": "San Francisco ",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/4790243007"
+      },
+      {
+        "title": "Product Manager, AI Infrastructure",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5172169007"
+      },
+      {
+        "title": "Recruiting Sourcer, Business (GTM, Infrastructure Strategy & G&A)",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5266249007"
+      },
+      {
+        "title": "Research Engineer, Large-Scale Training",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5199554007"
+      },
+      {
+        "title": "Research Engineer, Post-Training Inference",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5179372007"
+      },
+      {
+        "title": "Sales Development Engineer",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/4967737007"
+      },
+      {
+        "title": "Senior Backend Engineer, Inference Platform",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/4835763007"
+      },
+      {
+        "title": "Senior Developer Productivity Engineer",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/4774159007"
+      },
+      {
+        "title": "(Senior/Junior AI Inference Reliability Engineer, Compute Infra",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5268939007"
+      },
+      {
+        "title": "Senior Machine Learning Engineer, Voice AI ",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5088817007"
+      },
+      {
+        "title": "Senior Network Engineer",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5180977007"
+      },
+      {
+        "title": "Senior Network Engineer (Amsterdam)",
+        "location": "Amsterdam",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5026002007"
+      },
+      {
+        "title": "Senior  or Staff Software Engineer, Inference / Compute Infrastructure Engineering",
+        "location": "India ",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5213325007"
+      },
+      {
+        "title": "Senior or Staff Software Engineer, Inference / Compute Infrastructure Engineering",
+        "location": "Amsterdam",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5213322007"
+      },
+      {
+        "title": "Senior Product Engineer",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/4624894007"
+      },
+      {
+        "title": "Senior Product Engineer, Fullstack",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5192898007"
+      },
+      {
+        "title": "Senior Software Engineer - AI Compute, Together Cloud",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/4749787007"
+      },
+      {
+        "title": "Senior Software Engineer - AI Compute, Together Cloud",
+        "location": "Amsterdam",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5028862007"
+      },
+      {
+        "title": "Senior Software Engineer \u2014 Infra Agent Systems",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5233669007"
+      },
+      {
+        "title": "Senior Software Engineer \u2014 Infra Agent Systems ",
+        "location": "Amsterdam",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5222294007"
+      },
+      {
+        "title": "Senior Software Engineer \u2014 Infra Agent Systems UK",
+        "location": "London",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5222270007"
+      },
+      {
+        "title": "Senior Software Engineer, Observability",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/4971774007"
+      },
+      {
+        "title": "Senior Software Engineer - Together Cloud Platform",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/4753072007"
+      },
+      {
+        "title": "Staff Engineer, Distributed Storage and HPC & AI Infrastructure",
+        "location": "Amsterdam",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5226095007"
+      },
+      {
+        "title": "Staff Engineer, Distributed Storage and HPC & AI Infrastructure",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5155722007"
+      },
+      {
+        "title": "Staff Machine Learning Engineer, Voice AI ",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5140763007"
+      },
+      {
+        "title": "Staff Platform Infrastructure Engineer",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5180690007"
+      },
+      {
+        "title": "(Staff / Senior Staff) AI Inference Reliability Engineer, Compute Infra",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5266079007"
+      },
+      {
+        "title": "Staff Software Engineer - AI Compute, Together Cloud",
+        "location": "Amsterdam",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5261592007"
+      },
+      {
+        "title": "Staff Software Engineer - AI Compute, Together Cloud",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5224090007"
+      },
+      {
+        "title": "Staff Software Engineer, Inference / Compute Infrastructure Engineering London or Amsterdam",
+        "location": "London & Amsterdam",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5214645007"
+      },
+      {
+        "title": "Systems Research Engineer, GPU Programming",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/4188119007"
+      },
+      {
+        "title": "Systems Research Engineer Intern - GPU Programming (Summer 2027)",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238460007"
+      },
+      {
+        "title": "Systems Research Engineer Intern - GPU Programming (Winter 2027)",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238411007"
+      },
+      {
+        "title": "Technical Marketing Engineer",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238633007"
+      },
+      {
+        "title": "Technical Sourcer - Engineering",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5262787007"
+      },
+      {
+        "title": "Technical Support Engineer (GPU Cluster), India ",
+        "location": "Pune or Bangalore, India",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/4840844007"
+      },
+      {
+        "title": "Technical Support Engineer (GPU Clusters) - US Weekends",
+        "location": "Remote",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5202015007"
+      },
+      {
+        "title": "Technical Support Engineer (Inference) - India Weekends",
+        "location": "Pune or Bangalore, India",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5069532007"
+      }
+    ]
+  }
+]
